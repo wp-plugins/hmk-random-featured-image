@@ -20,7 +20,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload the hmk-random-featured folder to the /wp-content/plugins/ directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Enjoy
+3. Log in to WordPress admin and select Random Images menu and set images to be used as random featured image.
 
 == Uninstall ==
 
