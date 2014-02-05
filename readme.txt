@@ -26,9 +26,9 @@ This section describes how to install the plugin and get it working.
 
 Deactivate the plugin, delete if desired.
 
-== Official Web Site (and support) ==
+== Author's  Web Site for Questions and Support ==
 
-<a href="http://www.kashif-arain.com/random-featured">HMK Random Featured Image</a>
+http://www.kashif-arain.com
 
 == Changelog ==
 
