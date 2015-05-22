@@ -4,7 +4,7 @@ Tags: thumbnail,image, Post, thumbnail, automatic, posts, featured image, image,
 Requires at least: 3
 Tested up to: 4.2.2
 Stable tag: trunk
-Donate link: http://www.kashif-arain.com/donate/
+Donate link: http://www.meshpros.com/donate/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,7 @@ Deactivate the plugin, delete if desired.
 
 == Author's  Web Site for Questions and Support ==
 
-http://www.kashif-arain.com
+http://www.meshpros.com/
 
 == Changelog ==
 
