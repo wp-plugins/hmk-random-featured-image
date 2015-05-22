@@ -1,8 +1,8 @@
 === HMK Random Featured Image ===
-Contributors: xpertone
+Contributors:XpertOne
 Tags: thumbnail,image, Post, thumbnail, automatic, posts, featured image, image, featured, images, admin
-Requires at least: 3.0
-Tested up to: 3.8.1
+Requires at least: 3
+Tested up to: 4.2.2
 Stable tag: trunk
 Donate link: http://www.kashif-arain.com/donate/
 License: GPLv2 or later

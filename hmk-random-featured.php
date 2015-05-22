@@ -1,16 +1,19 @@
 <?php
 /*
-  Plugin Name: Random Featured Images
-  Description: Tired of no post thumbnails ? or Single default thumbnail for all posts having no featured image sets ? Here is an awesome plugin for Default Random Featured Images.
-  Version: 1.0
-  Author: Kashif Ali
-  Author URI: http://www.kashif-arain.com
+Plugin Name: Random Featured Images
+Description: Tired of no post thumbnails ? or Single default thumbnail for all posts having no featured image sets ? Here is an awesome plugin for Default Random Featured Images.
+Plugin URI: http://www.meshpros.com/
+Author: Muhammad Kashif Arain
+Version: 1.1.2
+Author URI: http://www.meshpros.com/
  */
 
 define('hmk_url', plugin_dir_url(__FILE__));
 define('hmk_path', plugin_dir_path(__FILE__));
 
+if (is_admin() && ! function_exists( 'optionsframework_init' ) ) {
 require_once hmk_path . 'options-framework/options-framework.php';
+}
 
 function hmk_get_random_featured_img () { 
     
