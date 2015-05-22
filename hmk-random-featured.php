@@ -6,7 +6,7 @@ Plugin URI: http://www.meshpros.com/
 Author: Muhammad Kashif Arain
 Version: 1.1.2
 Author URI: http://www.meshpros.com/
- */
+*/
 
 define('hmk_url', plugin_dir_url(__FILE__));
 define('hmk_path', plugin_dir_path(__FILE__));
